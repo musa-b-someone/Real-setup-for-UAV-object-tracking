@@ -1,6 +1,7 @@
 # Real-setup-for-UAV-object-tracking
 Real setup for-UAV-object-tracking
 
+If any issues arise, let me know, and I’ll help troubleshoot further. 😊 (you know how to do that)
 ---
 
 ### **1. Hardware Setup (The Building Phase)**
